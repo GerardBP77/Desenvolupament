@@ -1,0 +1,23 @@
+<!-- Config file for the game -->
+<config>
+  <app>
+  </app>
+  <audio>
+  </audio>
+  <input>
+  </input>
+  <render>
+  </render>
+  <textures>
+  </textures>
+  <window>
+    <title>MY DISASTER GAME</title>
+    <fullscreen value="false"/>
+    <borderless value="false"/>
+    <resizable value="false"/>
+    <fullscreen_window value="false"/>
+    <width value="1024"/>
+    <height value="768"/>
+    <scale value="1"/>
+  </window>
+</config>
