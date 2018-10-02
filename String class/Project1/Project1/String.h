@@ -5,7 +5,6 @@
 
 class String {
 public:
-
 	char* text;
 
 	String() {
